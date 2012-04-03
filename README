@@ -1,0 +1,2 @@
+Common module for all programming language processors.
+Being used in following projects: BrainfuckInterpreter, MalbolgeInterpreter
